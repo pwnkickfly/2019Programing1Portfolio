@@ -23,7 +23,7 @@ Description
 
 ![WordGen]()
 
-## Math Program
+## Screensaver
 Description
 
 [Source Code]()
