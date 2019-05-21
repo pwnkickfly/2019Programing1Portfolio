@@ -14,7 +14,7 @@ Description
 
 [Source Code](https://github.com/pwnkickfly/2019Programing1Portfolio/blob/master/SpaceShooter/SpaceShooter.zip)
 
-![SpaceShooter](https://github.com/pwnkickfly/2019Programing1Portfolio/blob/master/SpaceShooter/SpaceS01.png)
+![SpaceShooter](https://github.com/pwnkickfly/2019Programing1Portfolio/blob/master/SpaceShooter/SpaceS01.png?raw=true)
 
 ## Word Generator
 Description
