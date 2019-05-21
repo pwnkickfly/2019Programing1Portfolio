@@ -23,7 +23,10 @@
 ![SpaceShooter](SpaceShooter/SpaceS01.png)
 
 ## Word Generator
-Description
+- Coded in Python
+- Random Word Generator Based on Meaning of Prefixes, Suffixes and Roots
+- Ability to Save Entries
+- Loop so You Can Run The Program Over and Over Unless You Choose to Quit
 
 [Source Code](https://github.com/pwnkickfly/2019Programing1Portfolio/blob/master/WordGen/wordGen.zip)
 
