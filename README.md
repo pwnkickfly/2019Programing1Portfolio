@@ -33,7 +33,9 @@
 ![WordGen](WordGen/WordGen01.png)
 
 ## Screensaver
-Description
+- Coded in Processing
+- Fully Automatic Rainbow Screen Saver
+- Auto Resets After a Set Amount of Time
 
 [Source Code](https://github.com/pwnkickfly/2019Programing1Portfolio/blob/master/Screensaver/ScreenSaver.zip)
 
