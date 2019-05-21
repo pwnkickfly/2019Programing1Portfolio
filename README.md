@@ -3,7 +3,10 @@
 #### Certifications: Python,Java
 
 ## Object Oriented Calculator
-Description
+- Coded in Processing
+- Fully Fuctional(Basic Operators, Exponents, Sqaure Roots, Trigonometry)
+- Purple Themed Calculator
+
 
 [Source Code](https://github.com/pwnkickfly/2019Programing1Portfolio/blob/master/Calc/Calculator.zip)
 
