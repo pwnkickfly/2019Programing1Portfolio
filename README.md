@@ -1,6 +1,6 @@
 # Welcome to Anthony Liu's Programming Portfolio
 ### 2018-2019 Programming 1 | duoduoliu8028@gmail.com
-#### Certifications: Python
+#### Certifications: Python,Java
 
 ## Object Oriented Calculator
 Description
