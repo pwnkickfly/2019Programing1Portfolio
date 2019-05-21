@@ -10,7 +10,10 @@ Description
 ![Calculator](Calc/Calc01.png)
 
 ## Space Shooter Game
-Description
+- Coded in Processing
+- Movement by Arrow Keys, Spacebar to Fire
+- Progressive Power Ups
+- Shoot The Rocks to Get Points
 
 [Source Code](https://github.com/pwnkickfly/2019Programing1Portfolio/blob/master/SpaceShooter/SpaceShooter.zip)
 
