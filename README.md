@@ -15,7 +15,7 @@
 ## Space Shooter Game
 - Coded in Processing
 - Movement by Arrow Keys, Spacebar to Fire
-- Progressive Power Ups
+- Progressive Power Up
 - Shoot The Rocks to Get Points
 
 [Source Code](https://github.com/pwnkickfly/2019Programing1Portfolio/blob/master/SpaceShooter/SpaceShooter.zip)
